@@ -1,0 +1,10 @@
+/* PokemonList.css */
+ul {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0; /* Remove default padding */
+  }
+  
+  li {
+    margin-bottom: 0.5px; /* Add some spacing between list items */
+    /* Add any other styles you want for list items */
+  }
